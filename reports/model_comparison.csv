@@ -1,0 +1,5 @@
+,log_loss,brier,accuracy,roc_auc
+Baseline (chasing-team win rate),0.6909,0.2489,0.5351,0.5
+Logistic Regression,0.4023,0.1312,0.8064,0.9108
+Logistic Regression + team & city,0.5363,0.169,0.7615,0.8671
+Gradient Boosting,0.6369,0.1725,0.7652,0.8641

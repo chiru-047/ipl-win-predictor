@@ -1,0 +1,15 @@
+{
+  "model": "Logistic Regression",
+  "train_seasons": "2008-2023",
+  "test_seasons": "2024-2026",
+  "test_matches": 208,
+  "log_loss": 0.4023,
+  "brier": 0.1312,
+  "accuracy": 0.8064,
+  "roc_auc": 0.9108,
+  "accuracy_by_phase": {
+    "Powerplay (0-6)": 0.7233,
+    "Middle (6-15)": 0.8301,
+    "Death (15-20)": 0.8913
+  }
+}
